@@ -1,14 +1,11 @@
-Prepare your project folder
-Make sure your folder structure looks like this:
+Prepare my project folder
 Heart_Disease_Prediction/
-│
-├── app.py # Flask app
-├── train_model.py # Script to train and save the model
-├── model.pkl # Saved trained model
-├── scaler.pkl # Saved scaler
-├── requirements.txt # Required Python packages
+├── app.py
+├── train_model.py
+├── model.pkl
+├── scaler.pkl 
 └── templates/
-└── index.html # HTML template for frontend
+└── index.html
 
 ## Dependencies
 
